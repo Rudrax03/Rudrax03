@@ -75,13 +75,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrax03&theme=default" alt="rudrax03 streak" />
+  <img src="https://streak-stats.demolab.com/?user=rudrax03&theme=tokyonight" alt="rudrax03 streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrax03&show_icons=true&locale=en&layout=compact" alt="rudrax03 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrax03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rudrax03 top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrax03&show_icons=true&locale=en" alt="rudrax03 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrax03&show_icons=true&locale=en&theme=tokyonight" alt="rudrax03 stats" />
 </p>
