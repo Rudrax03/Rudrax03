@@ -1,4 +1,4 @@
-![logo](https://github.com/Rudrax03/Rudrax03/blob/main/Banner.png)
+![banner](https://github.com/Rudrax03/Rudrax03/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rudrajyoti Banerjee</h1>
 <h3 align="center">Think full stack, dream machine learning, code Java</h3>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" height="auto" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 - 🔭 I’m currently working on a **Real-time Chat Application with Java Socket Programming**  
 - 🌱 I’m currently learning **DSA with Java**  
@@ -67,7 +67,6 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
     </tr>
-    <!-- Add more rows here as needed -->
   </table>
 </div>
 
@@ -75,13 +74,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rudrax03&theme=tokyonight" alt="rudrax03 streak" />
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=rudrax03&theme=tokyonight" alt="rudrax03 streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrax03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rudrax03 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrax03&show_icons=true&layout=compact&theme=tokyonight" alt="rudrax03 top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrax03&show_icons=true&locale=en&theme=tokyonight" alt="rudrax03 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrax03&show_icons=true&theme=tokyonight" alt="rudrax03 stats" />
 </p>
