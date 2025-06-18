@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rudra_wb38" target="blank"><img src="https://img.shields.io/twitter/follow/rudra_wb38?logo=twitter&style=for-the-badge" alt="rudra_wb38" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🔭 I’m currently working on a **Real-time Chat Application with Java Socket Programming**
 
 - 🌱 I’m currently learning **DSA with Java**
